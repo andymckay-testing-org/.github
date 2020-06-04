@@ -1,6 +1,7 @@
 {
     "name": "Stale",
+    "filePatterns": ["^foo.txt$"],
     "description": "Remind reviewers to review candidate submissions",
     "iconName": "octicon clock",
-    "categories": ["CI", "Ruby"]
+    "categories": ["Python"]
 }
