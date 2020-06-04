@@ -3,5 +3,5 @@
     "filePatterns": ["^foobar.txt$"],
     "description": "Remind reviewers to review candidate submissions",
     "iconName": "octicon clock",
-    "categories": ["Org"]
+    "categories": ["Python"]
 }
