@@ -1,6 +1,6 @@
 {
     "name": "Example",
     "filePatterns": ["^foo.txt$"],
-    "description": "Remind reviewers to review candidate submissions",
+    "description": "This is an example starter workflow",
     "iconName": "octicon clock"
 }
